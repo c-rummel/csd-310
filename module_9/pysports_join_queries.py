@@ -1,3 +1,10 @@
+'''
+Caleb Rummel
+July 9, 2022
+CSD 310 - Module 9
+Assignment 9.2
+'''
+
 import mysql.connector
 
 config = {
